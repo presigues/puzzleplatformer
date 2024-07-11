@@ -22,7 +22,7 @@ this.gravity = 1
     }
 
     draw() {
-    c.fillStyle = 'blue'
+    c.fillStyle = 'black'
  c.fillRect(this.position.x, this.position.y, this.width, this.height)
     }
 
