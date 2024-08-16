@@ -16,5 +16,7 @@ i hope you like it!
 
 1 download all files
 
+2 create a folder named whatever you want to put all the files in
+
 2 use live server and click "golive" while viewing the "main.html" file
 
