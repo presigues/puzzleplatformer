@@ -12,3 +12,9 @@ live demo recording is available above
 
 i hope you like it!
 
+**self hosting instructions**
+
+1 download all files
+
+2 use live server and click "golive" while viewing the "main.html" file
+
